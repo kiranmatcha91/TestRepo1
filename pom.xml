@@ -8,7 +8,8 @@
     <groupId>org.example</groupId>
     <artifactId>KiranJava1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
+
 
     <!-- ✅ Dependencies block -->
     <dependencies>
